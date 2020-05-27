@@ -1,0 +1,34 @@
+.text-center
+{
+	padding-top: 120px;
+}
+
+form
+{
+	padding-top: 120px;
+}
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    margin-top: 71px;
+    margin-bottom: -50px;
+}    
+
+.h1, h1 {
+    font-size: 2.5rem;
+    padding-top: 71px;
+}
+
+.alert {
+    
+    margin-top: 71px;
+    margin-bottom: -50px;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}    
+
+.bg-dark {
+    background-color: #007bff!important;
+}
